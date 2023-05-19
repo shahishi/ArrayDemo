@@ -9,7 +9,6 @@ package arraysdemo;
  * @author shirishshahi
  */
 public class Student {
-    
     private String sID;
     private String sName;
 
