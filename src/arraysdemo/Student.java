@@ -13,7 +13,16 @@ public class Student {
     //comment at 1:27 PM
     private String sID;
     private String sName;
+    private String address;
 
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+//comment
     public Student(String sID, String sName) {
         this.sID = sID;
         this.sName = sName;
