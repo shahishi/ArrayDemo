@@ -23,7 +23,7 @@ public class Student {
     public String getsID() {
         return sID;
     }
-
+//friday
     public void setsID(String sID) {
         this.sID = sID;
     }
